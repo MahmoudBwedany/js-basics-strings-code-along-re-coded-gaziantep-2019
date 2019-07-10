@@ -5,6 +5,6 @@ let welcomeMessage = "Welcome to Flatbook, " + currentUser + " !";
 
 const upperCaseCurrentUser = currentUser.toUpperCase();
 
-let excitedWelcomeMessage =  "WELCOME TO FLATBOOK, " + currentUser + " !";
+let excitedWelcomeMessage =  "WELCOME TO FLATBOOK, " + upperCaseCurrentUser + " !";
 
 let shortGreeting = "Welcome, " + currentUser[0] + " !";
